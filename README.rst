@@ -18,7 +18,7 @@ Community
 ----------
 Join us on Discord `here <https://discord.gg/znCASFC>`_.
 
-.. image:: https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif
+.. image:: `https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif <https://discord.gg/znCASFC>`_
 
 Important Notice
 -----------------
