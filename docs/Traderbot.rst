@@ -4,10 +4,34 @@ Traderbot package
 Submodules
 ----------
 
-Traderbot\.test module
-----------------------
+Traderbot\.Activate module
+--------------------------
 
-.. automodule:: Traderbot.test
+.. automodule:: Traderbot.Activate
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Traderbot\.Analyze module
+-------------------------
+
+.. automodule:: Traderbot.Analyze
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Traderbot\.Collect module
+-------------------------
+
+.. automodule:: Traderbot.Collect
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Traderbot\.Report module
+------------------------
+
+.. automodule:: Traderbot.Report
     :members:
     :undoc-members:
     :show-inheritance:
