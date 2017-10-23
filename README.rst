@@ -14,6 +14,12 @@ Documentation |docs_badge|
 
 You can find all documentation relating to this project `here <https://traderbot.readthedocs.io/en/latest/>`_.
 
+Community
+----------
+Join us on Discord `here <https://discord.gg/znCASFC>`_.
+
+.. image:: https://raw.githubusercontent.com/discordapp/discord-api-docs/master/images/API_center.gif
+
 Important Notice
 -----------------
 
